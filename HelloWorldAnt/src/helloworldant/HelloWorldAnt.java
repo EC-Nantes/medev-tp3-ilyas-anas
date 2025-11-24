@@ -1,15 +1,18 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-
-package peps.helloworld;
+package helloworldant;
 
 /**
  *
  * @author Ilyas
  */
-public class HelloWorld {
+public class HelloWorldAnt {
 
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
